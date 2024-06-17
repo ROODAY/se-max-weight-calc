@@ -111,7 +111,7 @@ const App = () => {
 						</tr>
 					</tbody>
 				</table>
-				<h2>Your max weight: {maxWeight}</h2>
+				<h2>Do not exceed this mass (kg): {maxWeight}</h2>
 			</section>
 		</div>
 	);
